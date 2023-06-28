@@ -1,1 +1,1 @@
-![ERD](/client/public/images/ER.png)
+![ERD](public/images/ER.png)
